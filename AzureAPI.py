@@ -1,10 +1,10 @@
 import requests, json
-clientId = "8d4538e6-b1a5-4c05-b449-54d62fb18413"
+clientId = "8xxxx-bxxxx-xc32-12xx4d"
 tenantName = "vetpartners.com.au"
-clientSecret = ".2S_z50qp.BVff~~5J_9_cxM1e1TRXrJ94"
+clientSecret = "abcde"
 resource = "https://graph.microsoft.com/"
-username = 'xezhang@vet.partners'
-password = '3351976Zy'
+username = 'xyz@domain.com'
+password = 'password'
 
 req_token_body = {'Grant_Type': 'Password',
                   'Client_Id': clientId,
